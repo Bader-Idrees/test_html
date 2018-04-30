@@ -1,0 +1,18 @@
+*{padding: 0%;margin: 0%;text-align: center}
+.background{background-color: lightsteelblue;color: black;
+    padding: 2% 1% 3% 1%;text-align: center   }
+.maincolor{   }
+.float{       }
+ul li{background-color: cyan;margin: auto;padding: auto;
+        list-style: none;font-size: 22px;font-family:lucida}
+h3{margin: center;float: center;text-align: center;
+    background-color: maroon;color: lime}
+h3:hover{font-size: 30px;
+        color: lime;background-color: maroon}
+
+a{ text-decoration:none;color: black  }
+table{ border: black ;background-color:
+         blue;color: yellowgreen;
+        text-align: center;font-family: monospace;
+            font-size: 26px }
+span{color: black;font-size: 22px;background-color:whitesmoke }

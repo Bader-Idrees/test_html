@@ -1,0 +1,15 @@
+* {background-color:silver ;padding: 0% ;margin: 0%;}
+
+
+.wrapses {  border:solid black 4px;
+    align-content: center;
+    color: purple; padding:1% 2% 10% 2%;
+margin:20px 20px 20px 20px; background-color:cyan;  }
+#wrap{ color: black;background-color: cyan;
+font-family: monospace ;
+font-size: 14px; }
+#buttom{ margin-left:48%;
+padding:auto; }#buttomss{ margin-left:50%;
+    padding:auto; }
+    #fheader{ margin-left: 45%;
+    background-color: cyan  }
